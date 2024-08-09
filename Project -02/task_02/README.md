@@ -1,16 +1,24 @@
-# task_02
+## PR. 2 Designer
+### Description
 
-A new Flutter project.
+This project, PR. 2 Designer, is crafted using Flutter, a robust UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase. It employs the Dart language, known for its efficiency and simplicity, for seamless development.
 
-## Getting Started
+### Technologies and Tools
 
-This project is a starting point for a Flutter application.
+- **Language**: Dart language
+- **Tools**:
+  - Dartpad
+  - CMD
+  - VS Code
 
-A few resources to get you started if this is your first Flutter project:
+### UI Design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The user interface (UI) of this project is characterized by a vibrant combination of red and white colors. It caters to the field of IT, ensuring a visually appealing and user-friendly experience. TextSpan and RichText are utilized to enhance text formatting and styling, offering a polished appearance and improved readability.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more details and code samples, please refer to the project's repository.
+
+### ScreenShot
+
+<img src="https://github.com/Aayushi0x9/Graphics_task_02/assets/143987694/a0f74b29-f6a1-41e1-9245-f65a955748ec" width="250" height="550">
+
+
